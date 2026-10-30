@@ -1,0 +1,40 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vsconfig
+
+# Unity / Android temporary build folders
+.utmp/
+[Bb]uild/
+[Bb]uilds/
+
+# Android build outputs
+*.aab
+*.apk
+
+# Signing / secret files
+*.keystore
+*.jks
+
+# Old / local build-output folders in this project
+xRoad_BackUpThisFolder_ButDontShipItWithYourGame/
+XRoad_BurstDebugInformation_DoNotShip/
+xRoad_debug/
+xRoad_new_closed_test_v1/
+xRoad_new_test_v2/
+XRoad_test_v3/
+XRoad_TestSonrasiVersion/
